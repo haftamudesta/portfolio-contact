@@ -789,7 +789,7 @@ ul {
 }
 
 .forms {
-  margin-top: 40px;
+  display: flex;
   margin-top: 40px;
 }
 
@@ -809,7 +809,6 @@ ul {
   align-items: center;
   color: #979493;
   margin-top: 12px;
-  /* margin-bottom: -12px; */
   margin-left: 24px;
   border: none;
   border-bottom: 1px solid #d3d3d3;
@@ -895,7 +894,8 @@ ul {
 
 .images1 {
   size: 30px;
-  filter: invert(38%) sepia(41%) saturate(291%) hue-rotate(179deg)
+  filter:
+    invert(38%) sepia(41%) saturate(291%) hue-rotate(179deg)
     brightness(88%) contrast(97%);
 }
 
