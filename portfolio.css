@@ -891,9 +891,6 @@ ul {
   padding: 16px;
 }
 
-social-media1 > ul li {
-  color: red;
-}
 .images1 {
   size: 30px;
   filter: invert(38%) sepia(41%) saturate(291%) hue-rotate(179deg)
