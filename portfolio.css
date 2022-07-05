@@ -785,11 +785,10 @@ ul {
   order: 0;
   flex-grow: 0;
   margin-left: 24px;
-  margin-bottom: 100px;
+  margin-bottom: 80px;
 }
 
 .forms {
-  display: flex;
   margin-top: 40px;
 }
 
